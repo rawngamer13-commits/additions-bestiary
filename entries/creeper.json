@@ -1,0 +1,15 @@
+{
+    "name": "Creeper",
+    "icon": "minecraft:creeper_spawn_egg",
+    "category": "patchouli:monsters",
+    "pages": [
+        {
+            "type": "text",
+            "text": "The $(c)Creeper$() is a common $(4)monster$() that silently approaches players and explodes when nearby. It deals massive damage to both players and the environment, making it one of the most dangerous mobs in the Overworld."
+        },
+        {
+            "type": "entity",
+            "entity": "minecraft:creeper"
+        }
+    ]
+}
