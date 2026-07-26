@@ -1,0 +1,15 @@
+{
+    "name": "Zombie Horse",
+    "icon": "minecraft:zombie_horse_spawn_egg",
+    "category": "patchouli:monsters",
+    "pages": [
+        {
+            "type": "text",
+            "text": "The $(c)Zombie Horse$() is a $(4)rare undead mount$() similar to the Skeleton Horse. It can be ridden but cannot eat or breed. Like other undead mobs, it takes damage from healing potions and is unaffected by drowning."
+        },
+        {
+            "type": "entity",
+            "entity": "minecraft:zombie_horse"
+        }
+    ]
+}
