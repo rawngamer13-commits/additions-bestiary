@@ -1,0 +1,15 @@
+{
+    "name": "Zombie",
+    "icon": "minecraft:zombie_spawn_egg",
+    "category": "patchouli:monsters",
+    "pages": [
+        {
+            "type": "text",
+            "text": "The $(c)Zombie$() is one of the most common $(4)monsters$() in Minecraft. It spawns in dark areas and attacks players on sight. Zombies burn in sunlight and can break down wooden doors in later difficulties."
+        },
+        {
+            "type": "entity",
+            "entity": "minecraft:zombie"
+        }
+    ]
+}
