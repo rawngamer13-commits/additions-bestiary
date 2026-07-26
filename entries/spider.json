@@ -1,0 +1,15 @@
+{
+    "name": "Spider",
+    "icon": "minecraft:spider_spawn_egg",
+    "category": "patchouli:monsters",
+    "pages": [
+        {
+            "type": "text",
+            "text": "The $(c)Spider$() is a hostile $(4)mob$() that spawns in dark areas. It can climb walls and is fast on level ground, making it difficult to escape. Spiders are neutral during the day but become hostile at night."
+        },
+        {
+            "type": "entity",
+            "entity": "minecraft:spider"
+        }
+    ]
+}
