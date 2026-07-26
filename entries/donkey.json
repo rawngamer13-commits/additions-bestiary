@@ -1,0 +1,15 @@
+{
+    "name": "Donkey",
+    "icon": "minecraft:donkey_spawn_egg",
+    "category": "patchouli:monsters",
+    "pages": [
+        {
+            "type": "text",
+            "text": "The $(c)Donkey$() is a passive $(4)mob$() that can be tamed and ridden. Donkeys have inventory space and can carry items, making them useful for transport. They can be bred using Golden Carrots or Golden Apples."
+        },
+        {
+            "type": "entity",
+            "entity": "minecraft:donkey"
+        }
+    ]
+}
