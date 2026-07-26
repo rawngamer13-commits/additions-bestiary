@@ -1,0 +1,15 @@
+{
+    "name": "Husk",
+    "icon": "minecraft:husk_spawn_egg",
+    "category": "patchouli:monsters",
+    "pages": [
+        {
+            "type": "text",
+            "text": "The $(c)Husk$() is a $(4)desert variant$() of the zombie. It spawns in desert biomes and is immune to sunlight, unlike regular zombies. Husks inflict Hunger on their victims, making them more dangerous in prolonged combat."
+        },
+        {
+            "type": "entity",
+            "entity": "minecraft:husk"
+        }
+    ]
+}
