@@ -1,0 +1,15 @@
+{
+    "name": "Slime",
+    "icon": "minecraft:slime_spawn_egg",
+    "category": "patchouli:monsters",
+    "pages": [
+        {
+            "type": "text",
+            "text": "The $(c)Slime$() is a hostile $(4)mob$() found in swamps and underground. When killed, it splits into smaller slimes until they become tiny. Large slimes are slow but deal significant damage."
+        },
+        {
+            "type": "entity",
+            "entity": "minecraft:slime"
+        }
+    ]
+}
